@@ -13,7 +13,6 @@ struct ContentView: View {
     @State private var regexInput = "(?<=^\\[download\\].)[0-9.]+\\%"
     @State private var inputString = "[download] 12.5% of ~4,62KiB at Unknown speed ETA 00:00"
     @State private var outputString = ""
-   
     @State private var startIndex = "0"
     @State private var matchLength = "0"
     

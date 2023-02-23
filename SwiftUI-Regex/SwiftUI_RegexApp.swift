@@ -1,6 +1,6 @@
 //
-//  SwiftUIRegexApp.swift
-//  SwiftUIRegex
+//  SwiftUI_RegexApp.swift
+//  SwiftUI-Regex
 //
 //  Created by Tomer Zilbershtein on 2/23/23.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SwiftUIRegexApp: App {
+struct SwiftUI_RegexApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
